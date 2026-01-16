@@ -14,7 +14,8 @@ Millions fall victim to online scams every day. This project helps users instant
 ## 🖼️ Workflow & UI Preview
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-01-15%20at%2011.24.32%20PM.jpeg" alt="Digital Citizen Shield Workflow" width="900">
+  <img src="![Workflow](./workflow.jpeg)
+" alt="Digital Citizen Shield Workflow" width="900">
 </p>
 
 ---
