@@ -56,6 +56,7 @@ Millions fall victim to online scams every day. This project helps users instant
 ## 👨‍💻 Author
 
 **Sabyasachi Dwivedi**
+**Aayushman Singh Rathore**
 
 ---
 
